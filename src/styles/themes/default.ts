@@ -12,7 +12,7 @@ export const defaultTheme = {
   
     'blue-300': '#89CFF0', //Baby Blue
     'blue-500': '#6CB4EE', // Argentinan Blue
-    'green-700': '#1ca9c9', //Pacific Blue
+    'blue-700': '#1ca9c9', //Pacific Blue
   
     'red-500': '#AB222E',
     'red-700': '#7A1921',
